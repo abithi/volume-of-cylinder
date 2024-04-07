@@ -1,0 +1,6 @@
+#volume of cylinder
+pi=3.14
+r=int(input("enter the values of radius:"))
+h=int(input("enter the values of height:"))
+volume=pi*r*r*h
+print("volume of cylinder:",volume)
